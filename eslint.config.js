@@ -35,7 +35,7 @@ export default defineConfig([
         '**/*.seed',
         '**/node_modules',
         '**/.DS_Store',
-        '**/.eslint.config.*',
+        '**/eslint.config.*',
         '**/dist',
     ]),
 ]);
