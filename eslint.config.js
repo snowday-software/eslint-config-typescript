@@ -24,7 +24,6 @@ export default defineConfig([
             'no-fallthrough': 'warn',
             '@typescript-eslint/no-explicit-any': 'warn',
             '@typescript-eslint/consistent-type-imports': 'warn',
-            'no-console': 'warn',
         },
     },
     globalIgnores([
