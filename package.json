@@ -1,0 +1,21 @@
+{
+    "name": "eslint-config-typescript",
+    "version": "1.0.0",
+    "private": true,
+    "author": "joe27g",
+    "description": "An ESLint config for Typescript with a handful of basic rules.",
+    "keywords": [
+        "eslint-config typescript"
+    ],
+    "type": "module",
+    "dependencies": {
+        "@eslint/js": "^9.27.0",
+        "@eslint/eslintrc": "^3.3.1",
+        "typescript-eslint": "^8.32.1"
+    },
+    "peerDependencies": {
+        "eslint": "^9.27.0",
+        "prettier": "^3.5.3",
+        "typescript": "^5.8.3"
+    }
+}
